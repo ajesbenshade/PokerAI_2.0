@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs and outputs
+*.log
+runs/
+profile_results.*
+
+# Data files
+*.csv
+
+# VSCode settings
+.vscode/

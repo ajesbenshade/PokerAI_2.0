@@ -1,0 +1,14 @@
+gymnasium
+matplotlib
+numpy
+optuna
+pandas
+pettingzoo
+Pillow
+scipy
+seaborn
+tensorboard
+torch
+tqdm
+treys
+wandb
